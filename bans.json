@@ -1,50 +1,7 @@
 [
     {
-        "userid": "11111",
-        "reason": "Normal Ban",
-        "length": "1 Day",
+        "userid": "1111",
+        "reason": "ThisIsADevTestExample",
+        "length": "Infinity Years And Beyond Meats",
         "created": "2026-07-19T23:04:48.699Z"
     },
-    {
-        "userid": "11111",
-        "reason": "Normal Ban",
-        "length": "1 Day",
-        "created": "2026-07-19T23:11:35.164Z"
-    },
-    {
-        "userid": "11111",
-        "reason": "Normal Ban",
-        "length": "1 Day",
-        "created": "2026-07-19T23:16:20.918Z"
-    },
-    {
-        "userid": "11111",
-        "reason": "Normal Ban",
-        "length": "1 Day",
-        "created": "2026-07-19T23:18:35.345Z"
-    },
-    {
-        "userid": "11021571972",
-        "reason": "Normal Ban",
-        "length": "1 Day",
-        "created": "2026-07-19T23:56:48.872Z"
-    },
-    {
-        "userid": "11021571972",
-        "reason": "Normal Ban",
-        "length": "1 Day",
-        "created": "2026-07-19T23:57:50.469Z"
-    },
-    {
-        "userid": "11021571972",
-        "reason": "Normal Ban",
-        "length": "1 Day",
-        "created": "2026-07-19T23:58:16.132Z"
-    },
-    {
-        "userid": "11021571972",
-        "reason": "Normal Ban",
-        "length": "1 Day",
-        "created": "2026-07-19T23:59:18.265Z"
-    }
-]
